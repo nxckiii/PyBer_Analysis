@@ -1,0 +1,11 @@
+The Overview of the Analysis: 
+
+Using Python skills and knowledge of Pandas, we are being assessed to perform an exploratory analysis on data using CSV files. This assignment represents a fraction of the result to figure out more about the ride-sharing data by city type. Learning the commonalities and disparities in each city type can differentiate and utilize drivers and distribute fares accordingly.
+
+For instance, one can hypothesize that urban cities require more drivers than rural areas, while the fare may be lower than rural areas. Thus, investors and developers can inspect data, merge data, and create data series and frames.
+
+Results: Urban cities > Suburban cities > Rural cities
+
+Pending Results
+
+Summary: With pending results, the current statistical analysis predicts the number of rides for each city. It is a great way to visualize and decide which types of cities need more driver support. 
